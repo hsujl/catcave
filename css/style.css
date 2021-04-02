@@ -263,7 +263,7 @@ html {
 
 .twitter-icon:hover,
 .linkedin-icon:hover,
-.github-icon:hover,
+.githu-icon:hover,
 .instagram-icon:hover {
 	opacity: 1.0;
 	filter: alpha(opacity=100); /* For IE8 and earlier */
