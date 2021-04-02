@@ -186,7 +186,7 @@ html {
 }
 
 
-/* Footer bootstrap */
+/* Social media footer */
 
 .site-footer {
   background-color: black;
@@ -195,11 +195,8 @@ html {
 	padding: 10px 0;
 }
 
-#social-wrapper {
-	text-align: center;
-}
 
-/*Social Media Icons*/
+/* Social media icons */
 .social-wrapper {
 	text-align: center;
 }
